@@ -9,4 +9,4 @@ $$
 
 ## feature_cahnge_trends_catter
 X:Flow index  
-y: $ y={{10}^{lg\left ({1+\frac{p(x)}{\mathrm{μ(0)}}}\right )}}  $  
+y:  $ y={{10}^{lg\left ({1+\frac{p(x)}{\mathrm{μ(0)}}}\right )}}  $  
