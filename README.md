@@ -1,5 +1,5 @@
 # TFReC  
-the result of TFReC Feature Analysis  
+the Visualized results of TFReC Feature Analysis  
 
 ## feature_change_trends_scatter  
 
