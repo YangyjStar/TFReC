@@ -2,7 +2,7 @@
 the result of TFReC Feature Analysis
 
 ## feature_change_trends_scatter
-![feature_change_trends_scatter](./feature_change_trends_scatter.svg)  
+![feature_change_trends_scatter](./feature_change_trends_scatter.jpg)  
 X:Flow index  
 y:  
 $$y=
