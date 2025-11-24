@@ -2,7 +2,7 @@
 the Visualized results of TFReC Feature Analysis  
 
 ## feature_change_trends_scatter  
-![feature_change_trends_scatter](https://github.com/YangyjStar/TFReC/blob/main/feature_change_trends_scatter.jpg)  
+![feature_change_trends_scatter](https://github.com/YangyjStar/TFReC/blob/main/feature_change_trends_scatter.png)  
 x: Flow index  
 y: <img src="https://github.com/YangyjStar/TFReC/blob/main/eq.png" width="210px">
 
