@@ -5,7 +5,7 @@ the result of TFReC Feature Analysis
 
 ![feature_change_trends_scatter](https://github.com/YangyjStar/TFReC/blob/main/feature_change_trends_scatter.jpg)  
 X:Flow index  
-y:<img src="[https://github.com/Chen-Yi-Ran/OnlineStudy/blob/master/file/course.jpg](https://github.com/YangyjStar/TFReC/blob/main/eq.png)" width="210px">
+y: <img src="https://github.com/YangyjStar/TFReC/blob/main/eq.png" width="210px">
 
 ## feature_statistics  
 ![feature_statistics](./feature_statistics.svg)  
